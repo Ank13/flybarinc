@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 timezone: America/New_York
 future: false
+baseurl: /flybarinc
